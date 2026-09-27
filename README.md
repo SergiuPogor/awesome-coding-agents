@@ -67,6 +67,7 @@
 | 👀 | [Orkas](https://github.com/Orkas-AI/Orkas) | desktop, orchestration, local-first, coding-agents | Orkas is an open-source, local-first AI desktop app: a commander LLM directs specialist sub-agents, and runs your installed coding CLIs — Claude Code, Codex, OpenCode, OpenClaw, Hermes — as local sessions. Agents self-evolve via reflection and skill crystallization. BYO keys. macOS / Windows / Linux. |
 | 👀 | [check-docs](https://github.com/ipaulsmith/check-docs) | agents-md, claude-md, pre-commit, stale-paths | A small sh pre-commit check that stops a commit when CLAUDE.md, AGENTS.md or the files they @import name a path that no longer exists or a name you deleted |
 | 👀 | [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | replay, tracing, proxy, offline | Time travel for AI agents — record, replay, fork, and debug any agent run with any model |
+| 👀 | [swe-mux](https://github.com/jatoran/swe-mux) | multi-agent, status, mobile, tailscale, pty | Terminal multiplexer and agentic control plane with tailscale enabled. optimized for mobile development |
 
 ## Agent Instructions
 
