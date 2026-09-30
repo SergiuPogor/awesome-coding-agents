@@ -70,6 +70,7 @@
 | 👀 | [swe-mux](https://github.com/jatoran/swe-mux) | multi-agent, status, mobile, tailscale, pty | Terminal multiplexer and agentic control plane with tailscale enabled. optimized for mobile development |
 | 👀 | [Coven](https://github.com/OpenCoven/coven) | daemon, pty, project-scope, multi-harness, sqlite | Local-first runtime for project-scoped AI coding-agent sessions, with durable state, authority boundaries, and multi-harness interoperability. |
 | 👀 | [Psyche Build](https://github.com/OpenCoven/psyche-build) | desktop, git-worktrees, tmux, parallel-agents | Desktop cockpit for running parallel AI coding agents in visible, isolated workspaces — from branch to review, merge, and handoff. |
+| 👀 | [Ordewell](https://github.com/ordewell/ordewell) | orchestration, plan-first, multi-harness, verification | Multi-agent task orchestration for coding agents. Turn one goal into an ordered plan of tasks — each with its own runner, model and mode — then execute and verify the results. |
 
 ## Agent Instructions
 
