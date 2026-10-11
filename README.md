@@ -78,6 +78,7 @@
 | 👀 | [snap-back](https://github.com/Abelo9996/snap-back) | undo, snapshots, shadow-git, hooks | Undo for any coding agent. Snapshots your project in a shadow git repo so one command rolls back what the agent did, without touching your own git history. |
 | 👀 | [agent-fence](https://github.com/Abelo9996/agent-fence) | permissions, policy, hooks, audit-log | One permission policy file for every coding agent: allow, ask or deny shell commands, file access and git operations, with an audit log. |
 | 👀 | [Lockpaw](https://github.com/sorkila/lockpaw) | macos, menubar, hooks, notifications | Covers your Mac's screen with a hotkey while agents keep running, lid closed too. The locked screen glows when Claude Code, Codex, Gemini CLI, Cursor, Copilot CLI or Aider needs you. Free, MIT. |
+| 👀 | [Tale](https://github.com/tale-project/tale) | sandbox, orchestration, kanban, self-hosted | Open-source project workspace for teams and AI agents. Assign tasks, coordinate agents in persistent sandboxes, and review results together. Self-hosted or managed cloud. MIT licensed. |
 
 ## Agent Instructions
 
